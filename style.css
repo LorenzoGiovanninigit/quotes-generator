@@ -1,0 +1,27 @@
+button{
+    text-align:center;
+    border: none;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: coral;
+    displaY: flex;
+    justify-content: center;
+    width: 35%;
+    height: 40%;
+    
+  }
+  
+  #container{
+    margin: 0 auto;
+    font-size: 34px  ;  
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+  }
+  #pics{
+      display: flex;
+      justify-content: center;
+  }
+  
+  
